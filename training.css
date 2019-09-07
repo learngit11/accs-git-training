@@ -1,6 +1,16 @@
 .training-h1-color{
 	color: green;
 }
+/*
+All purpose color
+*/
 .training-h2-color{
+
 	color: red;
+}
+/*
+Specfic purpose color
+*/
+.training-h2-purple-color{
+	color: purple;
 }
